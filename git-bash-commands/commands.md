@@ -1,0 +1,34 @@
+touch {filename}
+notepad {filename}
+vim {filename}
+vi {filename}
+
+mkdir {directoryname}
+
+rm {filename}
+rm -d {directoryname}
+
+mv {foldername1} {foldername2}
+cd {foldername}
+cd ..
+
+git init
+
+git add {filename}
+git add .
+
+git commit -m "commit message"
+git commit --amend
+
+git log
+
+git remote add origin {github repository}
+
+git clone {github repository}
+
+git checkout -b {branchname}
+git checkout {branchname}
+
+git push origin {branchname(master/some other branch)}
+
+git pull
