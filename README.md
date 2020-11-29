@@ -1,2 +1,2 @@
 # Git practice
-repository for praticing git bash
+repository for praticing git bash and markdown
